@@ -1,0 +1,48 @@
+header {
+	text-align: center;
+	border: dotted 1px;
+	border-color: lightgrey;
+}
+.cardbox {
+	border: solid 1px;
+	margin: 5%;
+	border-color: lightblue;
+	max-width: 100%;
+    height: auto;
+    width: 90%
+}
+.avail {
+	background-color: grey;
+	color: yellow;
+}
+.P1 {
+	text-align: justify;
+	margin: 10px;
+}
+img {
+	width: 100%;
+	height: auto;
+}
+.bold {
+	font-weight: bold;
+	margin: 10px;
+}
+.container {
+	display: flex;
+}
+.container2 {
+	display: block;
+	width: 30%;
+	border: solid 1px;
+	margin: 1.6%;
+	border-color: lightblue;
+}
+.sec2 {
+	margin: 10px;
+} 
+.sec3 {
+	margin: 10px;
+} 
+footer {
+	font-size: 75%;
+}
